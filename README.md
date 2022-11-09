@@ -1,5 +1,9 @@
 # MicroControllers
 Programs and theorotical material of various MicroControllers.
 
-* ARM Cortex -Theory
-* STM32F - Programs
+<ol>
+  <li>ARM Cortex</li>
+  <ul>
+    <li>STM32F</li>
+  </ul>
+</ol>
