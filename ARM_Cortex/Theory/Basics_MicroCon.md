@@ -1,5 +1,8 @@
 # Basics of ARM Cortex based microcontroller
 
+
+<a href="https://github.com/RohitAkurdekar/MicroControllers/blob/main/ARM_Cortex/Theory/MC_BASICS.pdf">BASICs.pdf</a>
+
 <h2>Size of databus</h2>
 &nbsp;&nbsp; Bits of data stored on each Address. <br>
 <h2>Size of address bus</h2>
@@ -86,10 +89,11 @@ Peripherals, Timers, IOs are combined in it.
 
 <br>
 
-<img src="./Endians_defs.png">
+<img src="https://raw.githubusercontent.com/RohitAkurdekar/MicroControllers/main/ARM_Cortex/Theory/Endians_defs.png">
 <br>
 
-<a href="./PG-DIOT - MC - BASICS.pdf">BASICs</a>
+<br>
+
 ----------------------------------------------------------------------------------------
 <br>
 
