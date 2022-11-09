@@ -89,7 +89,10 @@ Peripherals, Timers, IOs are combined in it.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/RohitAkurdekar/MicroControllers/main/ARM_Cortex/Theory/Endians_defs.png">
+<img src="https://raw.githubusercontent.com/RohitAkurdekar/MicroControllers/main/ARM_Cortex/Theory/Endians_defs.jpg">
+
+
+
 <br>
 
 <br>
