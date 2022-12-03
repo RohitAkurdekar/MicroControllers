@@ -1,0 +1,41 @@
+{
+      
+    "C_Cpp.errorSquiggles": "Disabled",
+        "C_Cpp.default.includePath": [
+            "${workspaceFolder}/**",
+            "/home/diot/Documents/arduino_codes/**",
+            "/snap/arduino/70/**",
+            "\\snap\\arduino\\70\\**",
+            "/home/diot/snap/arduino/**"
+        ],
+
+        "C_Cpp.default.cppStandard": "c++17",
+        "C_Cpp.default.cStandard": "c17",
+        "C_Cpp.default.browse.path": [
+            "${workspaceFolder}/**",
+            "/home/diot/Documents/arduino_codes/**",
+            "/snap/arduino/70/**"
+        ],
+        "C_Cpp.default.defines": [
+            "_DEBUG",
+            "UNICODE",
+            "_UNICODE"
+        ],         
+        "arduino.path": "/usr/share/applications/Arduino IDE",
+        "debug.onTaskErrors": "showErrors",
+        "editor.codeActionsOnSave": {
+        
+        },
+        "C_Cpp.codeAnalysis.clangTidy.headerFilter": "",
+        "javascript.updateImportsOnFileMove.enabled": "always",
+        "stm32-for-vscode.openOCDPath": "/home/diot/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/openocd/0.11.0-5.1/.content/bin/openocd",
+        "stm32-for-vscode.makePath": "/usr/bin/make",
+        "stm32-for-vscode.armToolchainPath": "/home/diot/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/arm-none-eabi-gcc/11.3.1-1.1.2/.content/bin",
+        "security.workspace.trust.untrustedFiles": "open",
+        "python.defaultInterpreterPath": "/home/diot/anaconda3/bin/python",
+        "oracledevtools.bookmarkFileFolder": "/home/diot/Oracle/oracle.oracledevtools",
+        "oracledevtools.download.otherFolder": "/home/diot/downloads",
+        "oracledevtools.connectionConfiguration.configFilesFolder": "/home/diot/Oracle/network/admin",
+        "oracledevtools.connectionConfiguration.walletFileFolder": "/home/diot/Oracle/network/admin",
+        "window.zoomLevel": 2
+}
