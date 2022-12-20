@@ -6,5 +6,6 @@ Programs and theorotical material of various MicroControllers.
   <ul>
     <li>STM32F</li>
     <li>ESP32</li>
+    <li>Arduino</li>
   </ul>
 </ol>
