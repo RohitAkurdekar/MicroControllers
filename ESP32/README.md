@@ -23,6 +23,8 @@ Search for <__library name__> &rArr; Click on install
 <h2>Install library</h2>
 
 * Adafruit DHT11
+* esp wifi
+* WiFi
 
 
 
